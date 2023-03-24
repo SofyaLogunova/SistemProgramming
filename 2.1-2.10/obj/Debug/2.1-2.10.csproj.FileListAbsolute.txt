@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\2.1-2.10\bin\Debug\2.1-2.10.exe.config
+C:\Users\Пользователь\source\repos\2.1-2.10\bin\Debug\2.1-2.10.exe
+C:\Users\Пользователь\source\repos\2.1-2.10\bin\Debug\2.1-2.10.pdb
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\2.1-2.10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\2.1-2.10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\_2._1_2._10.Form1.resources
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\_2._1_2._10.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\2.1-2.10.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\2.1-2.10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\2.1-2.10.exe
+C:\Users\Пользователь\source\repos\2.1-2.10\obj\Debug\2.1-2.10.pdb
