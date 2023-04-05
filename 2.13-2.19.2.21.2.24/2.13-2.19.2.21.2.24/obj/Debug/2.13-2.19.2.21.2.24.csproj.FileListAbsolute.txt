@@ -1,0 +1,11 @@
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\bin\Debug\2.13-2.19.2.21.2.24.exe.config
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\bin\Debug\2.13-2.19.2.21.2.24.exe
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\bin\Debug\2.13-2.19.2.21.2.24.pdb
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\2.13-2.19.2.21.2.24.csproj.AssemblyReference.cache
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\2.13-2.19.2.21.2.24.csproj.SuggestedBindingRedirects.cache
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\_2._13_2._19._2._21._2._24.Form1.resources
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\_2._13_2._19._2._21._2._24.Properties.Resources.resources
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\2.13-2.19.2.21.2.24.csproj.GenerateResource.cache
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\2.13-2.19.2.21.2.24.csproj.CoreCompileInputs.cache
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\2.13-2.19.2.21.2.24.exe
+C:\Users\79621\source\repos\2.13-2.19.2.21.2.24\2.13-2.19.2.21.2.24\obj\Debug\2.13-2.19.2.21.2.24.pdb
