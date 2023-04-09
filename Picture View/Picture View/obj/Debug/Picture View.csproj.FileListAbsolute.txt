@@ -1,0 +1,11 @@
+C:\Users\79621\source\repos\Picture View\Picture View\bin\Debug\Picture View.exe.config
+C:\Users\79621\source\repos\Picture View\Picture View\bin\Debug\Picture View.exe
+C:\Users\79621\source\repos\Picture View\Picture View\bin\Debug\Picture View.pdb
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture View.csproj.AssemblyReference.cache
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture View.csproj.SuggestedBindingRedirects.cache
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture_View.Image.resources
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture_View.Properties.Resources.resources
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture View.csproj.GenerateResource.cache
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture View.csproj.CoreCompileInputs.cache
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture View.exe
+C:\Users\79621\source\repos\Picture View\Picture View\obj\Debug\Picture View.pdb
