@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\RoomLibrary\bin\Debug\net6.0\RoomLibrary..deps.json
+C:\Users\Пользователь\source\repos\RoomLibrary\bin\Debug\net6.0\RoomLibrary..dll
+C:\Users\Пользователь\source\repos\RoomLibrary\bin\Debug\net6.0\ref\RoomLibrary..dll
+C:\Users\Пользователь\source\repos\RoomLibrary\bin\Debug\net6.0\RoomLibrary..pdb
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..dll
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\ref\RoomLibrary..dll
+C:\Users\Пользователь\source\repos\RoomLibrary\obj\Debug\net6.0\RoomLibrary..pdb
