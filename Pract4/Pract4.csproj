@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="RoomLibrary.">
+      <HintPath>..\RoomLibrary\bin\Debug\net6.0\RoomLibrary..dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
